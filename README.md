@@ -1,6 +1,6 @@
 # inventory-of-steel-rods--Forecasting
 
-Forecasting-Inventory-of-Steel-Rods
+
 Forecasting Inventory of Steel Rods using Time Series Models: Predicting future inventory levels of steel rods using advanced time series models. Enhances inventory management, minimizes stockouts, and improves supply chain efficiency.
 
 This project focuses on developing a robust inventory forecasting system for steel rods using time series models. Accurate inventory forecasting plays a crucial role in supply chain management, enabling effective inventory planning, minimizing stockouts, and optimizing operational costs.
